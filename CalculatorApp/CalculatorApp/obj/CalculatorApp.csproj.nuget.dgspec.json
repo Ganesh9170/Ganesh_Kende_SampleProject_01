@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1.Training\\C# Projects\\SampleProject01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj": {}
+    "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj": {}
   },
   "projects": {
-    "D:\\1.Training\\C# Projects\\SampleProject01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj": {
+    "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1.Training\\C# Projects\\SampleProject01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+        "projectUniqueName": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
         "projectName": "CalculatorApp",
-        "projectPath": "D:\\1.Training\\C# Projects\\SampleProject01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+        "projectPath": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
         "packagesPath": "C:\\Users\\GK115303\\.nuget\\packages\\",
-        "outputPath": "D:\\1.Training\\C# Projects\\SampleProject01\\CalculatorApp\\CalculatorApp\\obj\\",
+        "outputPath": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

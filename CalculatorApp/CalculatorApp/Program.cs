@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ganesh!");
+            Console.WriteLine("Hello Ganesh Kende!");
         }
     }
 }

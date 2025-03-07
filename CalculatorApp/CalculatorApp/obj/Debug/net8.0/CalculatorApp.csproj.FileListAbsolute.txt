@@ -12,3 +12,18 @@ D:\1.Training\C# Projects\SampleProject01\CalculatorApp\CalculatorApp\obj\Debug\
 D:\1.Training\C# Projects\SampleProject01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
 D:\1.Training\C# Projects\SampleProject01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
 D:\1.Training\C# Projects\SampleProject01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.exe
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.deps.json
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.runtimeconfig.json
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.dll
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\bin\Debug\net8.0\CalculatorApp.pdb
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.AssemblyInfo.cs
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.sourcelink.json
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.dll
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\refint\CalculatorApp.dll
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.pdb
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\CalculatorApp.genruntimeconfig.cache
+D:\1.Training\Projects\Sample Project 01\CalculatorApp\CalculatorApp\obj\Debug\net8.0\ref\CalculatorApp.dll

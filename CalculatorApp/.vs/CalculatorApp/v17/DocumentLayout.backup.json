@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BEC946BB-5001-42F5-B969-3474C6B9BE45}|CalculatorApp\\CalculatorApp.csproj|d:\\1.training\\projects\\sample project 01\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEC946BB-5001-42F5-B969-3474C6B9BE45}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC946BB-5001-42F5-B969-3474C6B9BE45}|CalculatorApp\\CalculatorApp.csproj|d:\\1.training\\projects\\sample project 01\\calculatorapp\\calculatorapp\\calculatorfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC946BB-5001-42F5-B969-3474C6B9BE45}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorFunctionality.cs",
+              "DocumentMoniker": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorFunctionality.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorFunctionality.cs",
+              "ToolTip": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\CalculatorFunctionality.cs",
+              "RelativeToolTip": "CalculatorApp\\CalculatorFunctionality.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADgvyYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:43:35.155Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
               "ToolTip": "D:\\1.Training\\Projects\\Sample Project 01\\CalculatorApp\\CalculatorApp\\Program.cs",
               "RelativeToolTip": "CalculatorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T06:27:01.393Z",
               "EditorCaption": ""
